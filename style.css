@@ -41,7 +41,7 @@ p{
 ol{
     background-color: #612940;
     color: white;
-    font-size: 20px;
+    line-height: 40px;
 }
 
 a{
@@ -51,4 +51,13 @@ a{
     background-color:#612940;
 }
 
+.habilidade-fonte-maior{
+    font-size: 30px;
+}
 
+.habilidade-fonte-menor{
+    font-size: 20px;
+}
+strong{
+    font-style: italic;
+}
