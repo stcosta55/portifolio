@@ -1,0 +1,54 @@
+h1{
+    background-color:#612940;
+    font-size: 80px;
+    color:white;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+#quemsou{
+    background-color: #612940;
+    color: white;
+    font-size: 20px;
+}
+
+p{
+    background-color: #612940;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#habilidades{
+    background-color: #612940;
+    color: white;
+}
+
+#voltarinicio{
+    background-color: #9D6381;
+    font-size: 20px;
+}
+
+#sites{
+    background-color: #CECCCC;
+    font-size: 40px;
+    color: black;
+}
+
+ol{
+    background-color: #612940;
+    color: white;
+    font-size: 20px;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background-color:#612940;
+}
+
+
